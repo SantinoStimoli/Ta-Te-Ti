@@ -1,0 +1,9 @@
+button,
+button::before,
+.cella {
+    transition: all 250ms
+}
+
+button:hover {
+    color: #2c3e50;
+}
