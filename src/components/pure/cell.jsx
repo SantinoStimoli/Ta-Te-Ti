@@ -29,7 +29,6 @@ const Cell = ({ cell }) => {
                         <CrossSvg />
                         :
                         <NoneSvg />}
-
             </label>
         </div>
     );
