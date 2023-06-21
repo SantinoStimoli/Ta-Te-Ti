@@ -1,5 +1,17 @@
-¡Bienvenido a nuestra emocionante página web de Tateti! Aquí podrás disfrutar de la diversión y el desafío del clásico juego del Ta-Te-Ti de una manera fácil y conveniente.
+# Portfolio Personal
 
-En esta página web, te ofrecemos la oportunidad de jugar al Ta-Te-Ti de manera offline con alguno de tus amigos o familiares con el que te encuentres aburrido en tu casa. Con una interfaz sencilla y amigable, podrás sumergirte rápidamente en el juego y comenzar a poner a prueba tus habilidades estratégicas.
+Este repositorio contiene mi portfolio personal, una página web donde presento mi experiencia, habilidades y proyectos destacados. Aquí podrás encontrar información sobre mi formación académica, experiencia laboral y proyectos previos, así como una muestra de mis habilidades técnicas y logros profesionales.
 
-Nuestra página web ofrece un tablero de juego claro y definido, con símbolos reconocibles y colores atractivos que hacen que la experiencia sea visualmente agradable. Además, la funcionalidad intuitiva del juego garantiza que puedas colocar tus fichas con facilidad y disfrutar de una experiencia de juego fluida.
+## Características principales
+
+- **Diseño elegante y profesional**: El portfolio ha sido diseñado con una apariencia moderna y atractiva, brindando una experiencia visualmente agradable para los visitantes.
+- **Secciones informativas**: Encontrarás secciones dedicadas a mi perfil, habilidades, experiencia laboral, proyectos y formas de contacto. Cada sección ha sido cuidadosamente diseñada para proporcionar la información relevante de manera clara y concisa.
+- **Galería de proyectos**: Destaco algunos de mis proyectos más significativos, incluyendo descripciones, capturas de pantalla y enlaces a los repositorios o sitios web correspondientes. Esto permite a los visitantes explorar y evaluar mi trabajo previo.
+- **Sección de habilidades técnicas**: Enumero y describo las habilidades técnicas que he desarrollado a lo largo de mi carrera profesional, para que los visitantes puedan tener una idea clara de mis competencias.
+- **Sección de contacto**: Proporciono diversas formas de contacto para facilitar la comunicación con los interesados, ya sea para colaboraciones, oportunidades laborales o cualquier otra consulta.
+
+## Tecnologías utilizadas
+
+- React + JavaScript + CSS para el desarrollo del front-end.
+- Tailwind para una maquetación responsiva y estilos predefinidos.
+- Git y GitHub para el control de versiones y colaboración.
